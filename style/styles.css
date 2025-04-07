@@ -43,6 +43,7 @@ img {
 
 @media (min-width: 601px) {
     .divImg:hover {
+        text-decoration: dashed;
         transform: scale(1.05);
         background-color: green;
     }
